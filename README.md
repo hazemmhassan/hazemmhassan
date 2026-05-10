@@ -23,16 +23,16 @@ Computer & Communications Engineering student at Alexandria University, Speciali
 `PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `LightGBM` `SARIMA` `Isolation Forest`
 
 **NLP & Generative AI**
-`LangChain` `FAISS` `Hugging Face Transformers` `RAG Pipelines` `Prompt Engineering`
+`LangChain` `FAISS` `Hugging Face Transformers` `RAG Pipelines` `Seq2Seq` `LSTM` `GPT`
 
 **Computer Vision**
-`OpenCV` `CNN Architectures` `ResNet` `YOLO` `Transfer Learning` `Image Segmentation`
+`OpenCV` `CNN Architectures` `ResNet` `YOLO` `Transfer Learning`
 
 **Data Science**
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `Statistical Analysis`
 
 **Full Stack & DevOps**
-`Node.js` `Docker` `MySQL` `SQL` `REST APIs`
+`React` `Node.js` `Docker` `MySQL` `SQL` `REST APIs`
 
 **Languages**
 `Python` `Java` `C` `C++` `Assembly` `MATLAB`
@@ -49,17 +49,25 @@ End-to-end data science pipeline on the Global Weather Repository dataset (140K+
 Built a Retrieval-Augmented Generation pipeline that answers questions grounded in a Wikipedia document base. Uses LangChain for orchestration and FAISS for semantic vector search — eliminating hallucination and knowledge cutoff limitations of standard LLMs.
 `Python` `LangChain` `FAISS` `RAG` `LLM`
 
-### 🔭 Telescope Signal Classification
-Processed large-scale astronomical datasets (MAGIC Gamma Telescope) to classify gamma rays vs background noise using feature engineering and supervised ML models.
-`Python` `Pandas` `Scikit-learn`
+### 🔢 MNIST Digit Recognition
+Built a deep learning model using TensorFlow to classify handwritten digits from the MNIST dataset. Focused on CNN architecture design, training optimization, and evaluation metrics.
+`Python` `TensorFlow` `CNN` `Keras`
 
-### 🧠 ML Pattern Recognition Suite
-Built and benchmarked SVM, KNN, Decision Trees, and Neural Networks from scratch. Applied PCA and Autoencoders for dimensionality reduction and hyperparameter tuning for generalization.
-`Python` `Scikit-learn` `PyTorch`
+### 🎵 Music Generation
+Developed a generative music model using LSTM and GPT-based architectures to produce original musical sequences. Explored both recurrent and transformer-based approaches for sequence generation.
+`Python` `LSTM` `GPT` `TensorFlow`
+
+### 🌐 Book Store Web Application
+Built a full stack book store application with a React frontend and REST API backend, featuring product browsing, search, and management functionality.
+`React` `Node.js` `REST API`
 
 ### 🌐 Multi-Container Web Application
 Full stack web app with containerized services using Docker, Node.js backend, and MySQL database. Demonstrates microservices architecture and production-ready deployment patterns.
 `Node.js` `Docker` `MySQL` `REST API`
+
+### 🈯 English to French NLP Translation
+Built a neural machine translation system using Transformer-based architecture to translate between English and French. Applied attention mechanisms and sequence-to-sequence learning.
+`Python` `Transformers` `Hugging Face` `NLP` `Seq2Seq`
 
 ---
 
