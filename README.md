@@ -1,6 +1,6 @@
 # Hazem Hassan Aly
 
-### Computer & Communications Engineering Student @ Alexandria University (Expected 2026) | AI · ML · NLP · Data Science
+### Computer & Communications Engineering Student @ Alexandria University (Expected 2027) | AI · ML · NLP · Data Science
 
 ---
 
