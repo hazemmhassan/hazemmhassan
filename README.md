@@ -1,6 +1,6 @@
 # Hazem Hassan
 
-### NLP & Generative AI | Computer & Communications Engineering Student at Alexandria University (Expected 2027)
+## Computer & Communications Engineering student focused on NLP, Generative AI, and Arabic language technology. Open to internships.
 
 ## About
 
