@@ -1,71 +1,67 @@
-# Hazem Hassan Aly
+# Hazem Hassan
 
-### AI Engineer — NLP & Generative AI | Computer & Communications Engineering Student @ Alexandria University (Expected 2027)
+### NLP & Generative AI | Computer & Communications Engineering Student at Alexandria University (Expected 2027)
 
----
+## About
 
-## 👤 About Me
+I am a Computer & Communications Engineering student focused on applied machine learning, natural language processing, and generative AI, with a growing specialization in Arabic-language applications.
 
-Computer & Communications Engineering student at Alexandria University, Specialized Scientific Programs (SSP) — one of the most competitive engineering tracks in Egypt.
+My work covers the full project cycle: data preparation, baseline development, transformer fine-tuning, model evaluation, error analysis, and building usable applications around ML systems.
 
-**AI Engineer** focused on **NLP and Generative AI** — fine-tuning transformer models, building retrieval and alignment pipelines, and applying them to real, messy data (with a growing specialization in **Arabic NLP**, an underserved space with real market demand).
+- Current experience: Generative AI Engineer Intern at NeuralSeek and NLP Engineer Intern at Elevvo
+- Current interests: transformer fine-tuning, retrieval-augmented generation, preference alignment, and Arabic NLP
+- Open to: AI/ML, NLP, and Generative AI internships and early-career opportunities
+- Based in Alexandria, Egypt
 
-- 🔭 Currently working on: Arabic NLP with Hugging Face Transformers (AraBERT fine-tuning)
-- 🌱 Learning: agentic AI systems, advanced RAG architectures, AWS AI/ML
-- 💼 Open to: AI/ML, NLP, and Generative AI internships
-- 📍 Based in Alexandria, Egypt
+## Selected Projects
 
----
+### [Arabic Sentiment Classifier](https://github.com/hazemmhassan/arabic-sentiment-classifier)
 
-## 🛠️ Tech Stack
+Three-class sentiment classification for approximately 21,000 human-annotated Arabic tweets. A TF-IDF and Logistic Regression baseline achieved 0.802 macro F1, while a fine-tuned AraBERT model reached 0.860. The project includes detailed error analysis, a model hosted on [Hugging Face](https://huggingface.co/hazemmhassan/arabic-sentiment-arabert), and a locally tested Gradio demo.
 
-**NLP & Generative AI** `Hugging Face Transformers` `AraBERT` `LangChain` `FAISS` `RAG Pipelines` `Seq2Seq` `LSTM` `GPT`
+`Python` `PyTorch` `Hugging Face` `AraBERT` `NLP`
 
-**Machine Learning & Data Science** `PyTorch` `Scikit-learn` `XGBoost` `LightGBM` `SARIMA` `Pandas` `NumPy`
+### [Weather Trend Forecasting](https://github.com/hazemmhassan/weather-forecast)
 
-**Full Stack** `React` `Node.js` `MySQL` `REST APIs`
+End-to-end analysis of a global weather dataset with more than 140,000 records. The project compares statistical and machine-learning forecasting approaches and includes anomaly detection, air-quality analysis, feature importance, and geospatial visualization.
 
-**Languages** `Python` `Java` `C` `MATLAB`
+`Python` `Scikit-learn` `XGBoost` `LightGBM` `SARIMA`
 
----
+### [Full-Stack Weather App](https://github.com/hazemmhassan/weather-app)
 
-## 🚀 Projects
+React and Node.js weather application with MySQL persistence, REST APIs, location search, interactive maps, CRUD operations, and exports to JSON, CSV, PDF, XML, and Markdown.
 
-### 🕌 Arabic Sentiment Classifier
-3-class sentiment classifier (Positive / Negative / Neutral) for Arabic tweets, trained on the ArSAS dataset (~21K human-annotated tweets). TF-IDF + Logistic Regression baseline (Macro F1 0.802) improved to a fine-tuned AraBERT model (Macro F1 **0.860**), with a full error-analysis phase examining *why* the model fails — correlating errors with annotation-confidence scores and code-switching. Deployed via Gradio, model hosted on Hugging Face.
-`Python` `Hugging Face` `AraBERT` `NLP` `Transformers`
+`React` `Node.js` `Express` `MySQL` `REST APIs`
 
-### 🌍 Weather Trend Forecasting
-End-to-end data science pipeline on a 140K+ record global weather dataset. Built and compared SARIMA, XGBoost, LightGBM, and ensemble models, with anomaly detection and geospatial visualization.
-`Python` `XGBoost` `LightGBM` `SARIMA` `Scikit-learn`
+### [BBC News Topic Modeling](https://github.com/hazemmhassan/Elevvo_Internship)
 
-### 🌤️ Weather App — Full Stack Assessment
-Full-stack weather application: React frontend, Node.js/Express backend, MySQL persistence, live weather/geocoding/map integration, and 5 export formats (JSON, CSV, PDF, XML, Markdown).
-`React` `Node.js` `MySQL` `REST API`
+Unsupervised topic modeling for BBC news articles, comparing LDA and NMF with text preprocessing, coherence-based tuning, and interactive topic exploration.
 
----
+`Python` `NLP` `LDA` `NMF` `pyLDAvis`
 
-## 💼 Experience
+## Technical Skills
 
-- **AI Engineer Intern** — NeuralSeek
-- **Product Manager Intern (Cohort 10)** — PM Accelerator
-- **NLP Engineer Intern** — Elevvo
-- **Model Evaluator** (3 months) — Outlier
-- Training programs — NTI, ITI
+**NLP & Generative AI:** Python, PyTorch, Hugging Face Transformers, AraBERT, LangChain, FAISS, RAG
 
----
+**Machine Learning & Data:** Scikit-learn, XGBoost, LightGBM, Statsmodels, Pandas, NumPy, SQL
 
-## 🏆 Certifications
+**Application Development:** React, Node.js, Express, MySQL, REST APIs, Docker
 
-- 🟠 **AWS AI & ML Scholars** — Amazon Web Services
-- 🟡 **NTI Data Analyst Track** — National Telecommunication Institute
+**Additional Languages:** Java, C, MATLAB
 
----
+## Experience
 
-## 📫 Contact
+- Generative AI Engineer Intern - NeuralSeek
+- NLP Engineer Intern - Elevvo
+- Machine Learning Model Evaluator - Outlier
+- Product Manager Intern - PM Accelerator
+- Training programs - NTI and ITI
 
-[LinkedIn](https://linkedin.com/in/hazem-hassan19) · [GitHub](https://github.com/hazemmhassan) · [Email](mailto:hazemhassan830@gmail.com)
+## Certifications
 
----
+- AWS AI & ML Scholars - Amazon Web Services
+- NTI Data Analyst Track - National Telecommunication Institute
 
-*💡 Open to AI/ML, NLP, and Generative AI internship opportunities — let's build something great.*
+## Contact
+
+[LinkedIn](https://linkedin.com/in/hazem-hassan19) | [Hugging Face](https://huggingface.co/hazemmhassan) | [Email](mailto:hazemhassan830@gmail.com)
